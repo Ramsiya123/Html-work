@@ -1,0 +1,10 @@
+html-work
+-------------------------------------------
+
+echo "# Html-work" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ramsiya123/Html-work.git
+git push -u origin main
